@@ -1,0 +1,5 @@
+git config --global user.name "[NAME]"  :-Логин   
+git config --global user.email "[email addres]"
+git config --global color.ui auto   :-подсветка GIT при использоании терминала
+git config --global core.editor "[program]"     :-Установка редактора по умолчанию!
+git config --list       :-Вывод списка конфигураций.
