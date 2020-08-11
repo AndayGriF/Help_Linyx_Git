@@ -1,1 +1,0 @@
-# Help_Linyx_Git
